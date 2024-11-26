@@ -1,0 +1,10 @@
+left_image=left.png
+right_image=right.png
+initial_block_size=32
+min_block_size=4
+max_disparity=-204
+min_disparity=-239
+max_right_search=4
+max_other_directions_search=2
+max_mse=25
+std_dev_threshold=10
