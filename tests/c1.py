@@ -1,5 +1,6 @@
-import csv
+# load the libraries 
 
+import csv
 import cv2
 import numpy as np
 from skimage.measure import find_contours
